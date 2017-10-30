@@ -12,3 +12,24 @@
 [INFO] [2017-10-29 22:28:35][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2cdd0d4b: startup date [Sun Oct 29 22:28:35 CST 2017]; root of context hierarchy
 [INFO] [2017-10-29 22:28:35][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
 [INFO] [2017-10-29 22:28:35][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@180bc464: startup date [Sun Oct 29 22:28:35 CST 2017]; root of context hierarchy
+[INFO] [2017-10-30 10:54:23][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2017-10-30 10:54:24][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@180bc464: startup date [Mon Oct 30 10:54:24 CST 2017]; root of context hierarchy
+[INFO] [2017-10-30 10:54:24][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2017-10-30 10:54:24][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2017-10-30 10:54:24][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2cdd0d4b: startup date [Mon Oct 30 10:54:24 CST 2017]; root of context hierarchy
+[INFO] [2017-10-30 10:54:24][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2017-10-30 10:54:24][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@180bc464: startup date [Mon Oct 30 10:54:24 CST 2017]; root of context hierarchy
+[INFO] [2017-10-30 12:44:27][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2017-10-30 12:44:27][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@735f7ae5: startup date [Mon Oct 30 12:44:27 CST 2017]; root of context hierarchy
+[INFO] [2017-10-30 12:44:27][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2017-10-30 12:44:27][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2017-10-30 12:44:28][com.gjq.test.TestMyBatis]÷µ£∫≤‚ ‘
+[INFO] [2017-10-30 12:44:28][com.gjq.test.TestMyBatis]{"age":24,"id":1,"password":"test","userName":"≤‚ ‘"}
+[INFO] [2017-10-30 12:44:28][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@735f7ae5: startup date [Mon Oct 30 12:44:27 CST 2017]; root of context hierarchy
+[INFO] [2017-10-30 21:24:30][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2017-10-30 21:24:30][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@735f7ae5: startup date [Mon Oct 30 21:24:30 CST 2017]; root of context hierarchy
+[INFO] [2017-10-30 21:24:30][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2017-10-30 21:24:30][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2017-10-30 21:24:30][com.gjq.test.TestMyBatis]÷µ£∫≤‚ ‘
+[INFO] [2017-10-30 21:24:31][com.gjq.test.TestMyBatis]{"age":24,"id":1,"password":"test","userName":"≤‚ ‘"}
+[INFO] [2017-10-30 21:24:31][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@735f7ae5: startup date [Mon Oct 30 21:24:30 CST 2017]; root of context hierarchy

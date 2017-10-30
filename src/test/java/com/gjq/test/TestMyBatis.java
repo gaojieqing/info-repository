@@ -24,11 +24,11 @@ public class TestMyBatis {
 	@Resource
 	private IUserService userService = null;
 
-	@Before
+/*	@Before
 	public void before() {
 		ac = new ClassPathXmlApplicationContext("applicationContext.xml");
 		userService = (IUserService) ac.getBean("userService");
-	}
+	}*/
 
 	@Test
 	public void test1() {
